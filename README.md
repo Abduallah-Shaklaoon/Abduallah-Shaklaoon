@@ -57,7 +57,7 @@
 
 
 
-<p align="left">🎓 I am currently a Junior Developer at the Southern Alberta Institute of Technology (SAIT).<br>💻 Passionate about coding, technology, and software development.<br>🚀 A highly motivated, eager, and enthusiastic individual with a strong desire to learn and grow.<br>📚 Love expanding my knowledge in various programming languages, frameworks, and development tools.<br>🔍 Always seeking new challenges to sharpen my skills and push my limits.<br>🤝 Excited to collaborate with like-minded developers and contribute to innovative projects.<br>🔥 Fueled by curiosity, creativity, and a relentless drive for improvement.<br>🌱 Committed to continuous learning and staying updated with the latest trends in the tech industry.</p>
+<p align="left">🎓 I am currently a Junior Developer, graduate from the Southern Alberta Institute of Technology (SAIT).<br>💻 Passionate about coding, technology, and software development.<br>🚀 A highly motivated, eager, and enthusiastic individual with a strong desire to learn and grow.<br>📚 Love expanding my knowledge in various programming languages, frameworks, and development tools.<br>🔍 Always seeking new challenges to sharpen my skills and push my limits.<br>🤝 Excited to collaborate with like-minded developers and contribute to innovative projects.<br>🔥 Fueled by curiosity, creativity, and a relentless drive for improvement.<br>🌱 Committed to continuous learning and staying updated with the latest trends in the tech industry.</p>
 
 
 
